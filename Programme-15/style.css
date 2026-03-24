@@ -1,0 +1,52 @@
+('ht@import urltps://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+legend {
+
+    color: white;
+    background-color: black;
+    font-size: 15px;
+    padding: 1px;
+    border-radius: 5%;
+    font-weight: 400;
+    font-family: cursive;
+    font-style: normal;
+}
+
+input {
+    border-color: chartreuse;
+}
+
+h1 {
+    text-align: center;
+    margin: auto;
+}
+
+
+.text_center {
+    text-align: center;
+}
+
+
+fieldset {
+    border: solid 1px;
+    border-radius: 5px;
+    text-align: left;
+    margin-bottom: 20px;
+    width: 20px;
+    margin: auto;
+}
+
+
+
+table,
+tr,
+th,
+td {
+    border-collapse: collapse;
+    border: solid 2px;
+    padding: 10px;
+    font-size: 20px;
+    margin: auto;
+    color: black;
+
+}
